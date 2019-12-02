@@ -10,5 +10,5 @@ This app was created using Create React App
 - Remove a todo
 - Filter todos. 
 
-File structure preview:
+## File structure preview:
 ![](/screenshots/0.png)
